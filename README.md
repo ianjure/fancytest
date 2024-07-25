@@ -24,7 +24,7 @@ squared(s)
 ```
 
 Fancytest will output all instances with their parameters and status.
-```powershell
+```
 INSTANCE: add(2, 'b') : FAILED
 ERROR: unsupported operand type(s) for +: 'int' and 'str'
 
