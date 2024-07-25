@@ -1,0 +1,6 @@
+# INITIALIZE SETUP.PY
+python setup.py sdist bdist_wheel
+
+# UPLOAD GUIDE
+twine upload -u [TOKEN NAME] -p [TOKEN PASSWORD] dist/* 
+twine upload -u fancytest -p pypi-AgEIcHlwaS5vcmcCJGM3YjEwMzZhLTg1NzMtNDgxOC04YmY5LWQxYjM5YzcyZDVmNgACKlszLCIzMWFjNWY3Yi00OTAzLTQ5YTYtODViOS1hNGZiNGIxZjZhNjkiXQAABiCXu2z-1p6JbECJjMM8hE5FbWOSmLfFKEYPh85v3JPdmQ  dist/*
