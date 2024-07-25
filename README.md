@@ -3,7 +3,6 @@ Fancytest offers a [decorator](https://www.geeksforgeeks.org/decorators-in-pytho
 It will show a simple status of the failed and successful instances.
 
 ## How to use Fancytest?
-Install Fancytest
 ```
 pip install fancytest
 ```
