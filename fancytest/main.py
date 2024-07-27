@@ -1,3 +1,10 @@
+"""
+Author: Ian Jure Macalisang
+Email: ianjuremacalisang2@gmail.com
+Status: Deployed
+Link: https://pypi.org/project/fancytest/
+"""
+
 from termcolor import colored
 import time
 
