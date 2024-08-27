@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='fancytest',
-    version='1.0',
+    version='1.1',
     packages=find_packages(),
     author="Ian Jure Macalisang", 
     author_email="ianjuremacalisang2@gmail.com",
