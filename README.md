@@ -26,7 +26,7 @@ s = add(1,2)
 squared(s)
 ```
 
-Fancytest will output all instances with their parameters and status.
+#### Fancytest will output all instances with their parameters and status.
 ```
 INSTANCE: add(2, 'b') : FAILED
 ERROR: unsupported operand type(s) for +: 'int' and 'str'
